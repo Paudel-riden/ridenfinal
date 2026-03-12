@@ -18,7 +18,7 @@ Apple + Linear + Vercel style minimalism with:
 - **Lenis** (smooth scrolling)
 
 ## Getting Started
-
+ 
 ```bash
 npm install
 npm run dev
