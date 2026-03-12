@@ -11,7 +11,7 @@ Apple + Linear + Vercel style minimalism with:
 - Clean, calm, and powerful aesthetic
 
 ## Tech Stack
-
+ 
 - **Next.js 14** (App Router)
 - **TailwindCSS**
 - **Framer Motion**
